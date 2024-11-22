@@ -1,5 +1,5 @@
 # Langchain Streamlit Application to Chat Multiple PDFs
-LangChain Chatbox for multiple PDFs  
+LangChain Chatbot for multiple PDFs  
 
 ### Usage
 #### Create virtual environment 
@@ -34,3 +34,4 @@ streamlit run app.py
 - https://github.com/alejandro-ao/ask-multiple-pdfs
 - https://github.com/alejandro-ao/langchain-ask-pdf
 - https://www.youtube.com/watch?v=dXxQ0LR-3Hg
+- https://github.com/mrzaid/Chatbot-for-PDF
